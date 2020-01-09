@@ -1,0 +1,54 @@
+body {
+    background-color: greenyellow;
+}
+
+#targetNumber {
+    width: 50px;
+    padding 10px;
+    border: 5px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    background-color: yellow;
+}
+
+.whiteBox {
+    width: 50px;
+    padding: 10px;
+    border: 5px;
+    margin: 10px;
+    margin-top: 10px;
+    background-color: yellow;
+}
+
+.crystalImages {
+    padding-top: 70px;
+}
+
+.sum {
+    padding: 10px;
+    border: 5px;
+    margin: 10px;
+    background-color: hotpink;
+}
+
+.losses {
+    padding: 10px;
+    border: 5px;
+    margin: 10px;
+    background-color: orangered;
+}
+
+.wins {
+    padding: 10px;
+    border: 5px;
+    margin: 10px;
+    background-color: orange;
+}
+
+#crystalCollector {
+    padding: 10px;
+    border: 5px;
+    margin: 10px;
+    background-color: purple;
+    margin-bottom: 20px;
+}
